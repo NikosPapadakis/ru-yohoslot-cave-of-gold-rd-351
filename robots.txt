@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ru-yohoslot-cave-of-gold-351.onrender.com/sitemap.xml
+Sitemap: https://srv-d864dn7avr4c73deqovg.onrender.com/sitemap.xml
